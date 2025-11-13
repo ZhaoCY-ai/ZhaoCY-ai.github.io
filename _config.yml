@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenyu Zhao (赵晨宇)"
+title                    : "Chenyu Zhao's Homepage"
 description              : "Focusing on video and speech large generation model."
 repository               : "zhaocy-ai/zhaocy-ai.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Chenyu Zhao (赵晨宇)"
+  name             : "Chenyu Zhao"
   avatar           : "images/ry_profile.jpeg"
   bio              : ""
   location         : "Wuhan, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oLh2Zz0AAAAJ&hl"
-  email            : "rayeren613@gmail.com"
+  email            : "cyzhao@whu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
