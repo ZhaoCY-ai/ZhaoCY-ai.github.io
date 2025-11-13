@@ -1,4 +1,7 @@
 # 📝 Publications 
+
+## 3DV
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -9,7 +12,7 @@
 <div class='paper-box-text' markdown="1">
 
 **<font color=blue>Real-Time 3D Object Detection with Inference-Aligned Learning</font>**\\
-**<u>Chenyu Zhao</u>**, Xianwei Zheng*, Zimin Xia, Linwei Yue, Nan Xue
+**<u>Chenyu Zhao</u>**, Xianwei Zheng, Zimin Xia, Linwei Yue, Nan Xue
 
 **[** [**Paper**](https://arxiv.org) **]**
 <!-- <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong> -->
