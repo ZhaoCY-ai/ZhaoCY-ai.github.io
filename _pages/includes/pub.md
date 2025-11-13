@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-## 3DV
+## 📷 3D Vision
 
 <div class='paper-box'>
   <div class='paper-box-image'>
